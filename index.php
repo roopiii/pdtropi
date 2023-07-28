@@ -103,11 +103,11 @@ class Peserta {
 
 
 $objborpas = new StatusVaksin();
-$objborpas ->setNIK ("3206222010100002");
-$objborpas ->setNama      ("Muhamad Ropi Taofiq Hidayat");
+$objborpas ->setNIK ("33892049580002");
+$objborpas ->setNama      ("Ropac");
 $objborpas ->setJenisKelamin    ("Laki-Laki");
 $objborpas ->setUsia      ("20 ");
-$objborpas ->setAlamat     ("Kp.Walagar Desa Kamulyan Kec. Manonjaya<br>");
+$objborpas ->setAlamat     ("Kec. Manonjaya<br>");
 $objborpas ->nama_Vaksin    = "Sinovac-Biofarma";
 $objborpas ->Dosis       = "Pertama";
 $objborpas ->tempat    = "Manonjaya-10220701";
